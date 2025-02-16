@@ -1,6 +1,6 @@
 # CJ Streetwear Webstore
 
-This is the CJ Streetwear Webstore project built with React and Bootstrap.
+This is the CJ Streetwear Webstore project built with plain HTML, CSS, and JavaScript.
 
 ## Installation
 
@@ -14,26 +14,7 @@ This is the CJ Streetwear Webstore project built with React and Bootstrap.
     cd cjstreetwear-webstore
     ```
 
-3. Install dependencies:
-    ```sh
-    npm install
-    ```
-
-## Usage
-
-To start the development server, run:
-```sh
-npm start
-```
-
-Open your browser and navigate to `http://localhost:3000` to view the application.
-
-## Build
-
-To build the project for production, run:
-```sh
-npm run build
-```
+3. Open `index.html` in your browser to view the application.
 
 ## License
 
